@@ -1,0 +1,7 @@
+{"FactionName": "BadwaterBeavers",
+  "BaseFaction": "IronTeeth",
+  "DisplayName": "BadwaterBeavers",
+  "Description": "Eine alternative Fraktion mit besonderen Startboni.",
+  "StartBuildingId": "DistrictCenter.IronTeeth",
+
+  }

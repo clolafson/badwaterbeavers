@@ -1,7 +1,0 @@
- {"name": "BadwaterBeavers",
-  "version": "1.0.0",
-  "author": "jao",
-  "description": "A Fraction that lives in Badwater",
-  "entry": "FactionOverride.json",
-  "dependencies": [],
-  "tags": ["Faction", "Gameplay"]}

@@ -1,0 +1,7 @@
+ID,Text,Comment
+Faction.BadwaterBeavers.Description,"Faction description",Description of a beaver faction
+Faction.BadwaterBeavers.DisplayName,Badwater Beavers,Name of a faction
+Faction.BadwaterBeavers.GameOver.Flavor,"Gameover flavor",Flavor text of the game over panel
+Faction.BadwaterBeavers.GameOver.Message,"Gameover message",Text of the game over panel
+Faction.BadwaterBeavers.WonderCompletionFlavor,"Wonder completion flavor","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
+Faction.BadwaterBeavers.WonderCompletionMessage,"Wonder completion message","A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder."

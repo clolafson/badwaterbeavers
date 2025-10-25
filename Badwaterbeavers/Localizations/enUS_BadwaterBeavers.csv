@@ -1,0 +1,9 @@
+ID,Text,Comment
+Faction.BadwaterBeavers.Description,"Defectors of the traditional timber ways, they mastered iron and science to build advanced machinery.
+They achieve progress through ingenuity, efficiency, and disregard for the environment.
+Their motto: <i>Work hard, work hard.</i>",Description of a beaver faction
+Faction.BadwaterBeavers.DisplayName,Badwater Beavers,Name of a faction
+Faction.BadwaterBeavers.GameOver.Flavor,"Sometimes, a tiniest faulty part breaks the entire machine.",Flavor text of the game over panel
+Faction.BadwaterBeavers.GameOver.Message,"Your Badwater Beaver settlement fell without a chance for recovery. This is the end.",Text of the game over panel
+Faction.BadwaterBeavers.WonderCompletionFlavor,"Your pioneers flew away over the wasteland, leaving the thriving settlement behind them. If Earth is to recover, the new-found beaver prosperity needed to be shared.","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
+Faction.BadwaterBeavers.WonderCompletionMessage,"Well done! Your technological prowess allowed you to utilize industrious strengths of the Iron Teeth, conquer this map, and build the faction's wonder.","A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder."

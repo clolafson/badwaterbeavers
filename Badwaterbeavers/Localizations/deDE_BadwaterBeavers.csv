@@ -1,0 +1,9 @@
+ID,Text,Comment
+Faction.BadwaterBeavers.Description,"Diese Biber haben dem traditionellen Weg des Holzes den Rücken gekehrt und den Einsatz von Eisen und Wissenschaft erlernt, um moderne Maschinen zu bauen.
+Sie erzielen ihre Fortschritte durch Einfallsreichtum und Effizienz, unter Missachtung der Umwelt.
+Ihr Motto: <i>Erst die Arbeit und dann mehr Arbeit.</i>",Description of a beaver faction
+Faction.BadwaterBeavers.DisplayName,Schlechwasser Biber,Name of a faction
+Faction.BadwaterBeavers.GameOver.Flavor,Manchmal führt ein winziger Fehler zum Ausfall der ganzen Maschine.,Flavor text of the game over panel
+Faction.BadwaterBeavers.GameOver.Message,Die Siedlung deiner Schlechwasser Biber ist unwiederbringlich verloren. Dies ist das Ende.",Text of the game over panel
+Faction.BadwaterBeavers.WonderCompletionFlavor,"Deine Pioniere sind über das Ödland geflogen und haben die florierende Siedlung zurückgelassen. Wenn sich die Erde erholen soll, muss der neu entdeckte Wohlstand der Biber geteilt werden.","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
+Faction.BadwaterBeavers.WonderCompletionMessage,"Gut gemacht! Durch deine technologischen Fähigkeiten konntest du die emsigen Kräfte der Schlechwasser Biber nutzen, die Karte erobern und das Wunder der Fraktion bauen.","A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder."

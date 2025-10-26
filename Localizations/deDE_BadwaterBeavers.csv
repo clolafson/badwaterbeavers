@@ -1,0 +1,7 @@
+ID,Text,Comment
+Faction.BadwaterBeavers.Description,"Faction beschreibung",Description of a beaver faction
+Faction.BadwaterBeavers.DisplayName,Schlechwasser Biber,Name of a faction
+Faction.BadwaterBeavers.GameOver.Flavor,Gameover flavor,Flavor text of the game over panel
+Faction.BadwaterBeavers.GameOver.Message,Gameover bericht",Text of the game over panel
+Faction.BadwaterBeavers.WonderCompletionFlavor,"Wunder fertig flavor","Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder."
+Faction.BadwaterBeavers.WonderCompletionMessage,"Wunder fertig bericht","A message that is shown when the player has mastered a map with the Iron Teeth faction. Mastery means building and activating a Wonder."

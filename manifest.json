@@ -1,0 +1,9 @@
+{
+  "Name": "BadwaterBeavers",
+  "Version": "1.0.0",
+  "Id": "Jao.BadwaterBeavers",
+  "MinimumGameVersion": "0.0.0.0",
+  "Description": "A Fraction that lives in Badwater\nBy jao",
+  "RequiredMods": [],
+  "OptionalMods": []
+}
